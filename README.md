@@ -1,1 +1,3 @@
-# nextjs-image-upload-test-qode
+# NextJS Test Project Qode
+Install: pnpm install
+Run: pnpm dev
