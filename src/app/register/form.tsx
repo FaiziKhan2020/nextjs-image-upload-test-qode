@@ -79,9 +79,9 @@ export const RegisterForm = () => {
     <Stack spacing="6">
       <Logo />
       <Stack spacing={{ base: '2', md: '3' }} textAlign="center">
-        <Heading size={{ base: 'xs', md: 'sm' }}>Log in to your account</Heading>
+        <Heading size={{ base: 'xs', md: 'sm' }}>Create an account</Heading>
         <Text color="fg.muted">
-          Don't have an account? <Link href="/register">Sign up</Link>
+          Already have an account? <Link href="/login">Log in</Link>
         </Text>
       </Stack>
 
